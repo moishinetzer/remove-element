@@ -23,7 +23,6 @@ This works as well with any ads on a page, simply right click and banish them.
 
 
 
-
 ##### If you enjoy this feel free to send me a tip it is always appreciated :)
 
 [Tip Jar](paypal.me/paymoishi)
