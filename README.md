@@ -5,24 +5,24 @@ From the basic div, to even the options on an iframe (Meaning any video player),
 
 This works as well with any ads on a page, simply right click and banish them.
 
-##### Example with an iframe
-
+#### Example with an iframe
+------
 ![Example with iframe](./example1.png)
 
-##### Example on an ad
-
+#### Example on an ad
+------
 ![Example on an ad](./example2.png)
 
-##### Twitch chat has a lot more to give
 
+#### Twitch chat has a lot more to give
+------
 ![Twitch chat has a lot more to give](./example3.png)
 
-##### Straight up life hacks
-
+#### Straight up life hacks
+------
 ![Straight up life hacks](./example4.png)
 
 
-
-##### If you enjoy this feel free to send me a tip it is always appreciated :)
+#### If you enjoy this feel free to send me a tip it is always appreciated :)
 
 [Tip Jar](http://www.paypal.me/paymoishi)
