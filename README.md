@@ -13,6 +13,17 @@ This works as well with any ads on a page, simply right click and banish them.
 
 ![Example on an ad](./example2.png)
 
+##### Twitch chat has a lot more to give
+
+![Twitch chat has a lot more to give](./example4.png)
+
+##### Straight up life hacks
+
+![Straight up life hacks](./example5.png)
+
+
+
+
 ##### If you enjoy this feel free to send me a tip it is always appreciated :)
 
 [Tip Jar](paypal.me/paymoishi)
