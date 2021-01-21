@@ -9,18 +9,24 @@ This works as well with any ads on a page, simply right click and banish them.
 ------
 ![Example with iframe](./example1.png)
 
+
+
 #### Example on an ad
 ------
 ![Example on an ad](./example2.png)
+
 
 
 #### Twitch chat has a lot more to give
 ------
 ![Twitch chat has a lot more to give](./example3.png)
 
+
+
 #### Straight up life hacks
 ------
 ![Straight up life hacks](./example4.png)
+
 
 
 #### If you enjoy this feel free to send me a tip it is always appreciated :)
